@@ -1,6 +1,6 @@
 # ifd - Life Extending Ternary Abstractions
 
-[![license](http://img.shields.io/badge/license-mit-3498db.svg)](https://github.com/artisin/ifd/blob/master/LICENSE)[![npm](https://img.shields.io/npm/v/ifd.svg)](https://github.com/artisin/ifd/blob/master/LICENSE)[![Dependencies Status](https://david-dm.org/artisin/ifd.svg)](https://david-dm.org/artisin/ifd)
+[![license](http://img.shields.io/badge/license-mit-3498db.svg)](https://github.com/artisin/ifd/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/ifd.svg)](https://github.com/artisin/ifd/blob/master/LICENSE) [![Dependencies Status](https://david-dm.org/artisin/ifd.svg)](https://david-dm.org/artisin/ifd) [![wercker status](https://app.wercker.com/status/9045bcfe24ee6d7e8ff8af90e472cd8f/s/master "wercker status")](https://app.wercker.com/project/byKey/9045bcfe24ee6d7e8ff8af90e472cd8f)
 
 As of late my affection for the conciseness-niceness of ternary operators is [sky high](https://youtu.be/7XK7aYq4r80?t=13s). However, nesting ternaries is a one-way ticket to the ternary infirmary. A place where you second guess yourself, proceed to curse and raise your blood pressure resulting in your eventual but early death. In a nutshell, nested ternaries kill. The goal of `ifd` is to provide an alternative to the ternary infirmary by purveying two synergetic abstractions in one tasty punch. One abstraction is to deal with default values, and the other is for nested ternaries both with the goal of extending your life.
 
