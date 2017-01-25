@@ -1,0 +1,1 @@
+__Description__: Should be able to create argument `ifd` thunk and use it as a lazy eval `ifd` Function. Everything should act as expected and you should be able to use the option object as expected as well.

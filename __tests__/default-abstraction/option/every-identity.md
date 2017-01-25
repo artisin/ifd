@@ -1,0 +1,1 @@
+__Description__: Should be able to set the `everyIdentity` option prop to `true` so that every `identity` Funciton must pass for the value to be returned

@@ -1,0 +1,1 @@
+__Description__: Should be able to set new options in lazy array

@@ -1,0 +1,1 @@
+__Description__: If the `invoke` option is `false` don't invoke the functions, although it will return a function then.

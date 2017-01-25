@@ -1,0 +1,1 @@
+__Description__: Should be able to change the placeholder return through the `placeholder` option
