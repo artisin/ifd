@@ -1,4 +1,4 @@
-# ifd - Life Extending Ternary Abstractions
+# ifd - A Life Extending Ternary Abstraction
 
 [![license](http://img.shields.io/badge/license-mit-3498db.svg)](https://github.com/artisin/ifd/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/ifd.svg)](https://github.com/artisin/ifd/blob/master/LICENSE) [![Dependencies Status](https://david-dm.org/artisin/ifd.svg)](https://david-dm.org/artisin/ifd) [![wercker status](https://app.wercker.com/status/9045bcfe24ee6d7e8ff8af90e472cd8f/s/master "wercker status")](https://app.wercker.com/project/byKey/9045bcfe24ee6d7e8ff8af90e472cd8f)
 
@@ -129,17 +129,6 @@ const returnCondition = ifd(
 );
 // returnCondition === 'Kool'
 ```
-
-__Function Evaluation__
-```js
-const one   = false;
-const two   = false;
-const three = true;
-
-const foo = ifd([one, 1], [two, 2], [three, 3], { default: 4 });
-// foo === 3
-```
-
 
 __A Volume Bump__
 ```js
